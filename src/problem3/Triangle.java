@@ -1,4 +1,4 @@
-package problem2;
+package problem3;
 
 public final class Triangle {
     private final double base;

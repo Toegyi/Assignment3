@@ -1,4 +1,4 @@
-package problem2;
+package problem3;
 
 public final class Circle {
     private final double radius;
